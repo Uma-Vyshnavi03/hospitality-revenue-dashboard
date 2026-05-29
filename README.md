@@ -56,7 +56,7 @@ better decisions.
 | File | Description |
 |------|-------------|
 | `dashboard.png` | Final dashboard screenshot |
-| `hotel analytics.pbix` | Power BI source file |
+| `Hotel Analytics.pbix` | Power BI source file |
 
 ---
 
